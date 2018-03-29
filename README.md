@@ -1,4 +1,4 @@
-# price-trend-classifier-bidirectional-lstm-model
+# 股價趨勢判斷模型 PriceTrendClassifier
 使用 Tensorflow 建立 Bidirectional LSTM model 用於判斷股價處於何種趨勢中。目的是將訓練完成的模型用於自動標記其他股價趨勢。
 
 ### 詳細模型內容請參考 bidirectional_lstm_model.ipynb
